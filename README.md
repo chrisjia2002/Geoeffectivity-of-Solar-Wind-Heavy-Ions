@@ -14,7 +14,7 @@ Key findings:
 ## Repository Contents
 
 - `Final Figures.ipynb`: The Jupyter Notebook used to generate the figures and perform the analyses presented in the manuscript.
-- `environment.yml`: A conda environment file listing all the dependencies required to run the notebook.
+- `environment.yml`: A conda environment file listing all the dependencies required to run the notebook. NOTE: Many of the dependencies listed in this file may not be needed for `Final Figures.ipynb` to run.
 - `README.md`: Project description and usage instructions.
 - `LICENSE`: Open-source license for this project.
 - `CITATION.cff`: Citation file format for referencing this repository.
