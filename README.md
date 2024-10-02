@@ -30,7 +30,7 @@ Key findings:
 If you use this notebook or data in your research, please cite it as follows:
 
 ```
-Jia, C. (2024). Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis (Version 1.0). Zenodo. https://doi.org/xxxxx
+Chris Jia. (2024). Geoeffectivity of Solar Wind Heavy Ions [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13882983
 ```
 
 ## License
