@@ -30,7 +30,7 @@ Key findings:
 If you use this notebook or data in your research, please cite it as follows:
 
 ```
-Jia, C., Lepri, S., Zhao, L., Raines, J., Welling, D., Carter, J., & Nitta, S. (2025). Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.13882983
+Jia, C., Lepri, S., Zhao, L., Raines, J., Welling, D., Carter, J., & Nitta, S. (2025). Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.15548465
 ```
 
 ## License
