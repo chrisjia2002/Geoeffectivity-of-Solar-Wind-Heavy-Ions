@@ -1,15 +1,15 @@
 # Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis
 
-This repository contains the Jupyter Notebook used in the analysis presented in the manuscript titled **"Geoeffectivity of Solar Wind Heavy Ions"** submitted to *Geophysical Research Letters*. The analysis investigates the role of heavy ions in the solar wind during interplanetary coronal mass ejection (ICME) events, their influence on Earth's magnetosphere, and correlations with geomagnetic indices (Dst and AE).
+This repository contains the Jupyter Notebook used in the analysis presented in the manuscript titled **"Geoeffectivity of Solar Wind Heavy Ions"** submitted to *Journal of Geophysical Research: Space Physics*. The analysis investigates the role of heavy ions in the solar wind during interplanetary coronal mass ejection (ICME) events, their influence on Earth's magnetosphere, and correlations with geomagnetic indices (Dst and AE).
 
 ## Overview
 
 The primary objective of this project is to explore the contribution of heavy ions (e.g., helium, oxygen, carbon, iron) to the solar wind dynamic pressure and its effects on geomagnetic activity. By leveraging data from the **Solar Wind Ion Composition Spectrometer (SWICS)** aboard the **Advanced Composition Explorer (ACE)** spacecraft, this project studies ICME events from 1999 to 2005.
 
 Key findings:
-- Heavy ion dynamic pressure fraction increases significantly during ICME events, contributing up to 50% of total pressure.
-- Including heavy ions in dynamic pressure calculations reduces Earth's magnetopause distance by 3.57% during ICME disturbances.
-- Heavy ions (excluding helium) show strong correlations with geomagnetic indices (Dst: r = -0.57, AE: r = 0.60).
+- The ICME sheath raises ion pressures to about 2.5 times baseline values with helium decaying to baseline more slowly than other species.
+- Including heavy ions in dynamic pressure calculations reduces Earth's magnetopause distance by 3.19% (0.36 Earth Radii) on average from 1999 to 2005.
+- Peak minor ion pressure during ICMEs correlates more strongly with the lowest Dst (r = -0.57) and highest AE indices (r = 0.60) than proton pressure.
 
 ## Repository Contents
 
@@ -30,7 +30,7 @@ Key findings:
 If you use this notebook or data in your research, please cite it as follows:
 
 ```
-Jia, C., Lepri, S., Zhao, L., Raines, J., Welling, D., & Carter, J. (2024). Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.13882983
+Jia, C., Lepri, S., Zhao, L., Raines, J., Welling, D., Carter, J., & Nitta, S. (2025). Geoeffectivity of Solar Wind Heavy Ions: Jupyter Notebook Analysis (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.13882983
 ```
 
 ## License
